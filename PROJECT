@@ -5,5 +5,5 @@ plugins:
   manifests.sdk.operatorframework.io/v2: {}
   scorecard.sdk.operatorframework.io/v2: {}
 projectName: kube-operator
-repo: github.com/kube-operator
+repo: github.com/shambannaa/kube-operator
 version: "3"

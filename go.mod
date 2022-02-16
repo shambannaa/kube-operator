@@ -1,4 +1,4 @@
-module github.com/kube-operator
+module github.com/shambannaa/kube-operator
 
 go 1.17
 
